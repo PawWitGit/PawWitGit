@@ -1,3 +1,4 @@
+[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/pawe%C5%82-wita%C5%82a//) 
 ### Hi there 👋
 
 - 🔭 I’m currently working on my Masters'project (Python/Embedded/Data Science)
