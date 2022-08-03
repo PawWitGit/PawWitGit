@@ -7,8 +7,9 @@
 
     📧 pawelwitala1@gmail.com </br></br>
     
-    <a href=”https://www.linkedin.com/in/pawe%C5%82-wita%C5%82a/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-    https://www.linkedin.com/in/pawe%C5%82-wita%C5%82a/
+ <a href="https://www.sitepoint.com/github-profile-readme/your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
     <a href="https://www.linkedin.com/in/pawe%C5%82-wita%C5%82a" target="_blank">LinkedIn</a>
 
 - ⏱️ After coding:
