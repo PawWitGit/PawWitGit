@@ -6,7 +6,7 @@
 - 📫 How to reach me: 
 
     📧 pawelwitala1@gmail.com
-    [![LinkedIn](https://www.linkedin.com/in/pawe%C5%82-wita%C5%82a//)
+    [![LinkedIn]<a href="https://www.linkedin.com/in/pawe%C5%82-wita%C5%82a" target="_blank">LinkedIn</a>
 
 - ⏱️ After coding:
     🚴 🏊 🚗
