@@ -15,4 +15,4 @@
 - ⏱️ After coding:
     🚴 🏊 🚗
     
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="40" height="40">
