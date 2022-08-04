@@ -1,5 +1,5 @@
-# Hi there 👋
-
+### Hi there 👋
+-----
 - 🔭 I’m currently working on my Masters'project (Python/Embedded/Data Science)
 - 🌱 I’m currently learning Python and Linux
 - 👯 I’m looking to collaborate on open source python project (embedded/data science) 
@@ -15,4 +15,4 @@
 - ⏱️ After coding:
     🚴 🏊 🚗
     
-<img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
