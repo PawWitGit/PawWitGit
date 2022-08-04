@@ -11,8 +11,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
 
-
+Stack 
 - ⏱️ After coding:
     🚴 🏊 🚗
     
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" width="40" height="40"> 
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" width="40" height="40">
+<img src=https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg width="40" height="40">
